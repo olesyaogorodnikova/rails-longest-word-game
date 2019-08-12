@@ -1,3 +1,12 @@
 // Place all the styles related to the games controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.ul_container {
+display: flex;
+list-style: none;
+align-items: flex-start;
+justify-content: space-around;
+margin-right: 100px;
+}
+
